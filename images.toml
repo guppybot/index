@@ -1,184 +1,250 @@
 [[docker_hub_image]]
+repo = 'alpine'
+tag = '3.8'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'alpine'
+tag = '3.9'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'centos'
+tag = 'centos6'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'centos'
+tag = 'centos7'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'debian'
+tag = 'wheezy'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'debian'
+tag = 'jessie'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'debian'
+tag = 'stretch'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'debian'
+tag = 'buster'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'ubuntu'
+tag = '14.04'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'ubuntu'
+tag = '16.04'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
+repo = 'ubuntu'
+tag = '18.04'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
+
+[[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '10.0-devel-ubuntu18.04'
 sim_repo = 'ubuntu'
 sim_tag = '18.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '10.0-devel-ubuntu16.04'
 sim_repo = 'ubuntu'
 sim_tag = '16.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '10.0-devel-centos7'
 sim_repo = 'centos'
 sim_tag = 'centos7'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '10.0-devel-centos6'
 sim_repo = 'centos'
 sim_tag = 'centos6'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.2-devel-ubuntu16.04'
 sim_repo = 'ubuntu'
 sim_tag = '16.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.2-devel-centos7'
 sim_repo = 'centos'
 sim_tag = 'centos7'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.2-devel-centos6'
 sim_repo = 'centos'
 sim_tag = 'centos6'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.1-devel-ubuntu16.04'
 sim_repo = 'ubuntu'
 sim_tag = '16.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.1-devel-centos7'
 sim_repo = 'centos'
 sim_tag = 'centos7'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.1-devel-centos6'
 sim_repo = 'centos'
 sim_tag = 'centos6'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.0-devel-ubuntu16.04'
 sim_repo = 'ubuntu'
 sim_tag = '16.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.0-devel-centos7'
 sim_repo = 'centos'
 sim_tag = 'centos7'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '9.0-devel-centos6'
 sim_repo = 'centos'
 sim_tag = 'centos6'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '8.0-devel-ubuntu16.04'
 sim_repo = 'ubuntu'
 sim_tag = '16.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '8.0-devel-centos7'
 sim_repo = 'centos'
 sim_tag = 'centos7'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '8.0-devel-centos6'
 sim_repo = 'centos'
 sim_tag = 'centos6'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '8.0-devel-ubuntu14.04'
 sim_repo = 'ubuntu'
 sim_tag = '14.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '7.5-devel-ubuntu14.04'
 sim_repo = 'ubuntu'
 sim_tag = '14.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '7.5-devel-centos7'
 sim_repo = 'centos'
 sim_tag = 'centos7'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '7.5-devel-centos6'
 sim_repo = 'centos'
 sim_tag = 'centos6'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '7.0-devel-ubuntu14.04'
 sim_repo = 'ubuntu'
 sim_tag = '14.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '7.0-devel-centos7'
 sim_repo = 'centos'
 sim_tag = 'centos7'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
 [[docker_hub_image]]
 repo = 'nvidia/cuda'
 tag = '6.5-devel-ubuntu14.04'
 sim_repo = 'ubuntu'
 sim_tag = '14.04'
-last_checked = '2019-03-04T21:51:26Z'
-last_updated = '2019-03-04T21:51:26Z'
+last_checked = '2019-03-04T21:59:30Z'
+last_updated = '2019-03-04T21:59:30Z'
 
